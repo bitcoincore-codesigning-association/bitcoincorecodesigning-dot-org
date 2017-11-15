@@ -1,0 +1,1 @@
+This is the website markup repository for https://bitcoincorecodesigning.org
